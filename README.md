@@ -1,4 +1,4 @@
-🛒 Amazon Web Scraper
+🛒 Amazon Web Scraper :-
 
 A lightweight, scriptable Amazon web scraper built with Python to extract essential product details such as title, price, rating, number of reviews, availability, and ASIN from a search query or a direct product URL.
 
